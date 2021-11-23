@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(53,35): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(115,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(125,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(126,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(156,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(164,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(165,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ramal\source\repos\RayTracing\RayTracing\main.cpp(21,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\main.cpp(22,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\main.cpp(23,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\main.cpp(24,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\main.cpp(27,25): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\geometry.h(87,47): warning C4244: '=': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ramal\source\repos\RayTracing\RayTracing\raytracing.h(74): message : see reference to function template instantiation 'vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)' being compiled
+          with
+          [
+              U=double
+          ]
+  RayTracing.vcxproj -> C:\Users\ramal\source\repos\RayTracing\Debug\RayTracing.exe
